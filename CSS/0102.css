@@ -1,0 +1,28 @@
+p, h1, h2, h3 {
+    color: gray;
+}
+
+.black_bg, .color_white{
+    color: white;
+    background-color: black;
+}
+
+#chocolate > li {
+    color:chocolate;
+}
+
+#lime > li {
+    color: lime;
+}
+
+.blue {
+    background-color:blue;
+    color:white
+}
+.red{
+    background-color:red;
+    color:white
+}
+.red + div {
+    background-color: purple;
+}

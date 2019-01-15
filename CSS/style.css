@@ -1,0 +1,32 @@
+*{
+    color:red;
+}
+/* 태그 선택자 */
+h1 {
+    color: rosybrown;
+}
+/* 클래스선택자 */
+.blue{
+    color:blue;
+}
+.pink{
+    color:pink;
+}
+/* id선택자 */
+#green{
+    color:green;
+}
+/* 적용 우선순위 - id > 클래스 > 태그 */
+
+.bold {
+    font-weight: bold;
+}
+h5{
+    width: 50%;
+}
+div{
+    width: 50%;
+}
+h4{
+    color:#26A49C;
+}
